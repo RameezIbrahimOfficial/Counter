@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    width: 50%;
+    height: 50%;
+}
+
+.screen{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+button{
+    text-decoration: none;
+    border: none;
+}
+
+label{
+    font-size: 40px;
+
+}
